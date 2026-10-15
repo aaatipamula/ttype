@@ -1,0 +1,24 @@
+# Build output
+*.o
+*.obj
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+/ttype
+
+# Debug symbols
+*.dSYM/
+*.su
+*.pdb
+
+# Logs
+*.log
+
+# Editor/OS cruft
+.DS_Store
+*.swp
+*~
