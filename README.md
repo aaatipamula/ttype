@@ -1,14 +1,16 @@
 # ttype
 
+![ttype in the terminal](./img/ttype.png)
+
 **ttype** is a small, ncurses-based typing test application. This is by no means
-fully featured, and exists mostly because typing acts as a 'digital fidget toy'
+fully featured, and exists mostly because typing acts as a "digital fidget toy"
 for me.
 
 Being able to pull up a small terminal based typing test is quite fun!
 
 ## Installation
 
-You should be able to install on Linux, MacOS, BSD, or any other POXSIX or
+You should be able to install on Linux, MacOS, BSD, or any other POSIX or
 POSIX-like system. The following dependencies are required to install:
 
 - `gcc`/`clang` - If using `clang` you'll need to tweak the `Makefile`
